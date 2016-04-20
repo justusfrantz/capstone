@@ -1,0 +1,10 @@
+name: capstone
+account: phng
+server: shinyapps.io
+appId: 96112
+bundleId: 426145
+url: https://phng.shinyapps.io/capstone/
+when: 1461148305.62302
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: slide.md|slide.Rpres
